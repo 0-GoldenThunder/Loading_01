@@ -365,7 +365,7 @@ export default function DrifterGlitchLoader() {
                   transition={{ duration: 0.22, ease: [0.22, 1, 0.36, 1] }}
                   stroke="#f5e1b5" 
                   strokeWidth="3.2" 
-                  strokeLinecap="miter" 
+                  strokeLinecap="round" 
                   strokeLinejoin="miter" 
                   fill="none"
                 >
